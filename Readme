@@ -1,0 +1,40 @@
+# Enunciado do Projeto: Calculadora de Salário Líquido
+
+## Objetivo
+
+Desenvolver um programa em Python que calcule o salário líquido de um funcionário após aplicar um imposto de 10% sobre o salário bruto fornecido pelo usuário.
+
+## Especificações
+
+1. **Leitura do Salário Bruto**
+   - O programa deve solicitar ao usuário que insira o valor do salário bruto.
+
+2. **Cálculo do Imposto e Salário Líquido**
+   - O programa deve calcular o imposto como 10% do salário bruto.
+   - O salário líquido deve ser calculado subtraindo o imposto do salário bruto.
+
+3. **Exibição do Salário Líquido**
+   - O programa deve exibir o valor do salário líquido, formatado para duas casas decimais.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e organizado, com tratamento básico para garantir que a entrada seja um número válido.
+
+
+# Calculadora de Salário Líquido
+
+Este é um programa simples em Python que calcula o salário líquido de um funcionário, descontando um imposto de 10% do salário bruto fornecido pelo usuário.
+
+## Funcionalidades
+
+- **Leitura do Salário Bruto:** O programa solicita ao usuário que insira o valor do salário bruto.
+- **Cálculo do Imposto e Salário Líquido:** O programa calcula o imposto de 10% sobre o salário bruto e determina o salário líquido após o desconto.
+- **Exibição do Salário Líquido:** O programa exibe o valor do salário líquido, formatado para duas casas decimais.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-salario-liquido.git
